@@ -1,0 +1,13 @@
+id,name,is_primary?
+1,Girly,TRUE
+2,Manly,TRUE
+3,Classic,TRUE
+4,Classy,TRUE
+5,Promo,TRUE
+6,Vintage,FALSE
+7,Sobering,FALSE
+8,Bland,FALSE
+9,Soft,FALSE
+10,Happy,FALSE
+11,Burning,FALSE
+12,Strong,FALSE
